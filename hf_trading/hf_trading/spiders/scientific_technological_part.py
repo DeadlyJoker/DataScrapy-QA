@@ -13,7 +13,7 @@ class ScientificTechnologicalPartSpider(scrapy.Spider):
 
     def parse(self, response):
         """
-
+        解析
         :param response:
         :return:
         """
